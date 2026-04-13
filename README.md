@@ -6,6 +6,6 @@ Visual Grounding Mechanism (VGM) — a minimal, falsifiable test of the groundin
 
 **Status:** Pre-registered, execution pending.
 **Execution window:** September–October 2026 (post Riyadiyati soft launch).
-**Pre-registration:** OSF link to be added after posting.
+**Pre-registration:** https://osf.io/p5vwq (OSF Preregistration, filed April 13, 2026).
 
 Code, data, and analysis will be released here during the execution window under the MIT licence.
